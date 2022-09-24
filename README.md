@@ -1,4 +1,2 @@
-# DEMO111
-Hello RHIS is github
-for files,docs
-Hospital managament syattem
+this is first repository
+this if first commit
